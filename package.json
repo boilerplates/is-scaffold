@@ -26,7 +26,10 @@
     "mocha": "*",
     "scaffold": "^0.1.2"
   },
-  "keywords": [],
+  "keywords": [
+    "is",
+    "scaffold"
+  ],
   "verb": {
     "related": {
       "list": [
