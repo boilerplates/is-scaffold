@@ -1,7 +1,7 @@
 {
   "name": "is-scaffold",
   "description": "Returns true if an object is a Scaffold instance.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/is-scaffold",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-scaffold",
